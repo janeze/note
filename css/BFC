@@ -1,0 +1,32 @@
+<p><span>BFC</span>（<span>Block Formatting Context</span>），直译为“块级格式化上下文”。<span>BFC</span>是一个独立渲染的区域，里面元素的布局是不受外界的影响（我们往往利用这个特性来消除浮动元素对其非浮动的兄弟元素和其子元素带来的影响。）并且在一个<span>BFC</span>中，块盒和行盒（行盒由一行中所有的内联元素所组成）都会垂直的沿着其父元素的边框排列。</p><p><br></p><p>形成条件(其中一个即可)：</p><p>1<span>、</span>float<span>值为</span>left<span>或</span>right</p><p>2<span>、</span>position<span>值为</span>absolute<span>或</span>fixed</p><p>3<span>、</span>display<span>值为</span>inline-block<span>、</span>table-cells<span>、</span>table-captions<span>、或</span>inline-flex</p><p>4<span>、</span>overflow<span>值不为</span>visible</p><p><br></p><p>作用</p><p><span>1</span>、可以包含浮动元素</p><p><span>2</span>、不被浮动元素覆盖（清除浮动）</p><p><span>3</span>、阻止外边距合并</p><p><span>4</span>、利用<span>BFC</span>的独立性来设计布局</p><p><br></p><p><span><a href="https://www.jianshu.com/p/0d713b32cd0d">https://www.jianshu.com/p/0d713b32cd0d</a></span></p><p><span></span><br></p><p>
+
+
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px '.PingFang SC'}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 2.0px 0.0px; font: 14.0px '.PingFang SC'}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #dca10d}
+span.s1 {font: 12.0px 'Helvetica Neue'}
+span.s2 {font: 12.0px '.PingFang SC'}
+span.s3 {text-decoration: underline}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p><a href="https://www.jianshu.com/p/ac27cc32e8bf?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation">https://www.jianshu.com/p/ac27cc32e8bf?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=seo_notes&amp;utm_source=recommendation</a></p>

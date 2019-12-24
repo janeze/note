@@ -1,0 +1,25 @@
+<p>1<span>、克隆仓库：</span>git clone src</p><p><br></p><p>2<span>、拉取代码：</span> git pull</p><p><br></p><p>3<span>、查看提交记录：</span> git log</p><p><br></p><p>4<span>、丢弃所有修改</span><span>&nbsp; </span>git checkout .<span>&nbsp;</span></p><p><br></p><p><span>5</span>、提交：</p><p><span>	</span>1<span>）将所有修改提交到缓存：</span> git add .<span>&nbsp;</span></p><p><span><span>	</span>2</span>）将缓存中的文件提交到本地<span>git</span>仓库：<span>git commit -m </span>‘备注’</p><p>
+
+
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px '.PingFang SC'; color: #454545}
+span.s1 {font: 12.0px '.PingFang SC'}
+span.s2 {font: 12.0px 'Helvetica Neue'}
+span.Apple-tab-span {white-space:pre}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p>	3）将本地仓库的提交，推到远程仓库：git push</p>

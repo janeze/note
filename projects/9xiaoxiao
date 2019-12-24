@@ -1,0 +1,47 @@
+<p>
+
+
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px 'Helvetica Neue'; color: #454545}
+</style>
+
+
+</p><p>一. 头部菜单下拉隐藏，上拉显示&nbsp;</p>
+
+
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px '.PingFang SC'; color: #454545}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545; min-height: 14.0px}
+span.s1 {font: 12.0px 'Helvetica Neue'}
+span.s2 {font: 12.0px '.PingFang SC'}
+span.Apple-tab-span {white-space:pre}
+</style>
+
+
+
+<p>	【耗时】2019-10-15 21:30 — 2019-10-15 22:30 (1h)</p>
+<p>	【内容】修改scroll事件</p>
+<p>	【状态】完成</p>
+<p>二. 分页模式，去掉无限下拉&nbsp;</p>
+<p>	【耗时】2019-10-15 22:30 —2019-10-15 24:00 (1.5h)</p>
+<p>	【内容】熟悉脚本结构，熟悉插件dropload，lazyload</p>
+<p>	【状态】未完成</p>
+<p>	【耗时】2019-10-16 21:00 —2019-10-16 24:00 (4h)</p>
+<p>	【内容】修改分页脚本，冲突处理</p>
+<p>	【状态】未完成</p>
+<p>	【耗时】2019-10-17 19:40 —2019-10-18 24:40 (5h)</p>
+<p>	【内容】添加分页组件，接口联调</p>
+<p>	【状态】完成</p>
+<p>三. 上传显示进度条&nbsp;</p>
+<p>四. 个人中心美化&nbsp;&nbsp;</p>
+<p>	【耗时】2019-10-14 &nbsp;21:30 --- 2019-10-15-02:15 (5h)&nbsp;</p>
+<p>	【内容】修改布局，优化样式，优化上传控件&nbsp;</p>
+<p>	【状态】完成</p>
+<p>	【存在问题】修改头像不成功&nbsp;</p>
+<p>五、wap端修改</p>
+<p>	【耗时】2019-10-19 &nbsp;15:40 --- 2019-10-19-19:40 (4h)&nbsp;</p>
+<p>	【内容】添加分页、添加滚动隐藏头部、个人中心美化&nbsp;</p>
+<p>	【状态】完成</p>
+<p><br></p>
+<p>累计： 20.5h</p>
